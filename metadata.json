@@ -1,0 +1,6 @@
+
+{
+  "name": "Fuel Finder Portugal",
+  "description": "Uma aplicação para encontrar os preços de combustível mais baratos em Portugal. Compare os preços de vários postos de gasolina, filtre por localização, marca e tipo de combustível para poupar dinheiro no seu próximo abastecimento.",
+  "requestFramePermissions": []
+}
